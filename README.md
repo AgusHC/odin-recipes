@@ -1,1 +1,1 @@
-# odin-recipes
+Creating a web page using my knowledge from odin project course
